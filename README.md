@@ -4,7 +4,7 @@ This is a minimalist codebase for training score-based diffusion models (support
 
 > "A Variational Perspective on Diffusion-Based Generative Models and Score Matching"
 by Chin-Wei Huang, Jae Hyun Lim and Aaron Courville
-[[arXiv](https://arxiv.org/abs/2011.13456)]
+[[arXiv](https://arxiv.org/abs/2106.02808)]
 
 Also see the [concurrent work](https://arxiv.org/abs/2101.09258) by Yang Song & Conor Durkan where they used the same idea to obtain state-of-the-art likelihood estimates. 
 
